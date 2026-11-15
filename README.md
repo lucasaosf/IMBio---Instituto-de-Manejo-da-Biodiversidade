@@ -33,7 +33,7 @@ Se você utilizar estes scripts em estudos, banners científicos ou relatórios 
 ```bibtex
 @misc{ferreira2026imbio,
   title={Scripts em R para o Instituto de Manejo da Biodiversidade (IMBio): Análises do Parque das Nascentes},
-  author={Lucas José Alves de Oliveira Simões Ferreira},
+  author={Lucas Aosf},
   year={2026},
   publisher={GitHub},
   journal={GitHub repository},
